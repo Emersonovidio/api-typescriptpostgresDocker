@@ -1,0 +1,29 @@
+{
+  "name": "api-typescriptpostgresdocker",
+  "version": "1.0.0",
+  "description": "npm run build && node ./dist/index.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emersonovidio/api-typescriptpostgresDocker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emersonovidio/api-typescriptpostgresDocker/issues"
+  },
+  "homepage": "https://github.com/Emersonovidio/api-typescriptpostgresDocker#readme",
+  "dependencies": {
+    "@types/express": "^4.17.13",
+    "@types/node": "^18.0.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.1",
+    "mysql2": "^2.3.3"
+  }
+}
